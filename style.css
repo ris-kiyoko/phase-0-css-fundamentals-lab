@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+html { 
+  text-align:center
+}
+a:nth-child() {
+  text-align: center;
+  width: 10px;
+  background-color: grey;
+}
+figure {
+  text-align: center;
+  font-size: small;
+}
+p:featured-property {
+  text-align: center;
+  width: 800px;
+}
